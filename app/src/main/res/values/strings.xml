@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstAndroidApplication</string>
+    <string name="button_send">send</string>
+    <string name="edit_message">Eter your message</string>
+</resources>
